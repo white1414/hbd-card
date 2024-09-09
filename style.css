@@ -145,3 +145,12 @@ body {
   font-size: 20px;
 
 }
+.back p{
+  text-transform: none;
+  font-family: Lucida Calligraphy;
+
+}
+.back h1 {
+  font-size: 125px;
+  line-height: 120px;
+}
